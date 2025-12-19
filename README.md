@@ -5,7 +5,7 @@ A comprehensive terminal-based application developed in **C** for managing a dig
 ## 🚀 Features
 * **Recipe Management:** Create, view, edit, and delete recipes.
 * **Ingredient Tracking:** Manage complex ingredient lists for each recipe.
-* **Persistent Storage:** Data is saved to and loaded from text files (`dummyrecept.txt`).
+* **Persistent Storage:** Data is saved to and loaded from text files.
 * **Memory Safety:** Includes `debugmalloc.h` to ensure no memory leaks occur during execution.
 * **Modular Design:** Separate modules for file handling, recipe logic, and menu systems.
 
