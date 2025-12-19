@@ -24,8 +24,8 @@ A comprehensive terminal-based application developed in **C** for managing a dig
 
 ## 📖 Documentation
 The project includes detailed documentation in Hungarian:
-* [**User Guide**](./recepteskonyv_felhasznaloi_dok.pdf) - Instructions on how to use the software.
-* [**Programming Documentation**](./recepteskonyv_programozoi_dok.pdf) - Details regarding the code architecture and data structures.
+* [**User Guide (Felhasználói)**](./recepteskonyv_felhasznaloi_dok.pdf)
+* [**Programming Documentation (Programozói)**](./recepteskonyv_programozoi_dok.pdf)
 
 ## 🔨 How to Build
 This project uses **CMake**. To compile it manually:
